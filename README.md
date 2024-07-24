@@ -32,10 +32,10 @@ npm run build
 **Deployment Link:** https://anan-react-shopping-cart.netlify.app/
 
 # Technologies Used
-Start Bootstrap for the initial template.
-React for the JavaScript library.
-Vite for the build tool.
-Netlify for providing the platform to deploy the application.
+1. Start Bootstrap for the initial template.
+2. React for the JavaScript library.
+3. Vite for the build tool.
+4. Netlify for providing the platform to deploy the application.
 
 
 
