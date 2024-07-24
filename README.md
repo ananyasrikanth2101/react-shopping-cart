@@ -8,8 +8,8 @@ This is a simple and responsive shopping cart application built with React. It a
 
 # Installation
 **1.Clone the repository:**
-  git clone https://github.com/ananyasrikanth2101/react-shopping-cart.git
-  cd react-shopping-cart
+  1. git clone https://github.com/ananyasrikanth2101/react-shopping-cart.git
+  2. cd react-shopping-cart
 
 **2.Install dependencies:**
   npm install
@@ -32,10 +32,10 @@ npm run build
 **Deployment Link:** https://anan-react-shopping-cart.netlify.app/
 
 # Technologies Used
-1. Start Bootstrap for the initial template.
-2. React for the JavaScript library.
-3. Vite for the build tool.
-4. Netlify for providing the platform to deploy the application.
+1. Bootstrap 
+2. React 
+3. Vite 
+4. Netlify 
 
 
 
